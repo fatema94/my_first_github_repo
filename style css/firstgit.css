@@ -5,4 +5,10 @@ div{
     border: 2px solid black;
     box-shadow: 5px 5px 5px;
 
+
+}
+ul{
+    background-color: aquamarine;
+    border: 2px solid pink;
+    box-shadow: 2px 2px 2px pink;
 }
